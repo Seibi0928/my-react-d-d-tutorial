@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": ["app.tsx"]
+}

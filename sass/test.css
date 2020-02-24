@@ -1,0 +1,7 @@
+﻿tmp {
+  font-display: inherit; }
+  tmp .aaa {
+    display: none; }
+
+.new-item {
+  transform: scale(2); }
